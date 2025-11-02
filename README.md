@@ -23,4 +23,4 @@ The system follows a three-layer architecture:
 2. **Processing Layer:** Performs detection using the YOLOv3 model.  
 3. **Presentation Layer:** Displays annotated results via Streamlit.
 
-
+images in this repo of crop and can be used to test the detection.
